@@ -21,12 +21,14 @@ I made this project with this version. Python: 3.9.2 Jupyter notebook: 6.2.0 (Ju
 
 
 
+![image](https://user-images.githubusercontent.com/92198440/146662957-10962592-cae9-4e26-b6de-b85bae642177.png)
 
-![image](https://user-images.githubusercontent.com/92198440/146662653-7129baec-e4c4-4f3a-b5af-edb2f4e57d95.png)
 
 
 _In fact, It's a assignment as you can see lol_
 
 This is screenshot of project. This prohect contains codes, including parameter figures and accurancy. It's so simple!
+I changed 3 parameters (random_state=0 is defaut). I adjust enough high max_iter figure to get high accurancy, and The “balanced” mode uses the values of y to automatically adjust weights inversely proportional to class frequencies in the input data. "ovr" makes a binary problem be fit for each label.
+
 
 Thankyou :)
