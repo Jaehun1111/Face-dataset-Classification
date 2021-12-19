@@ -1,6 +1,6 @@
 # Face-dataset-Classification
 
-This is Face dataset Classification project which is using scikit learn library with Python. face set is 'The Olivetti faces datase', and I used LogisticRegression. In python scikit learn library, there are many kinds of the way of learning, and each contains many parameters. I choosed the way of learning, and adjust some parameters to get high accurancy.
+This is Face dataset Classification project which is using scikit learn library with Python. face set is 'The Olivetti faces datase', and I used LogisticRegression. In python scikit learn library, there are many kinds of the way of learning, and each contains many parameters. I choosed the way of learning, and adjust some parameters to get high accurancy. Actual accurance is 97.5%
 
 Up-to-date : This project will not have update, so there is no update breakdown.
 
