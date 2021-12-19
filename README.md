@@ -20,9 +20,7 @@ I made this project with this version. Python: 3.9.2 Jupyter notebook: 6.2.0 (Ju
 
 
 
-
-![image](https://user-images.githubusercontent.com/92198440/146662957-10962592-cae9-4e26-b6de-b85bae642177.png)
-
+![image](https://user-images.githubusercontent.com/92198440/146663317-4a259cd8-c883-4c21-8953-e51759fae824.png)
 
 
 _In fact, It's a assignment as you can see lol_
